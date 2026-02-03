@@ -1,2 +1,2 @@
-sagemaker==2.52.1
+sagemaker==2.256.0
 scikit-learn==0.24.2
